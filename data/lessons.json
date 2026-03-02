@@ -1,0 +1,91 @@
+{
+  "grades": {
+    "12": {
+      "term1": [
+        {
+          "topic": "DNA: Code of Life",
+          "topicId": "dna_code_of_life",
+          "lessons": [
+            {
+              "id": "g12_t1_dna_scientists",
+              "title": "Scientists Behind DNA Discovery"
+            },
+            {
+              "id": "g12_t1_dna_significance",
+              "title": "Significance of DNA"
+            },
+            {
+              "id": "g12_t1_dna_structure",
+              "title": "Structure of DNA"
+            },
+            {
+              "id": "g12_t1_dna_location",
+              "title": "Where DNA is Found"
+            },
+            {
+              "id": "g12_t1_dna_replication",
+              "title": "DNA Replication"
+            },
+            {
+              "id": "g12_t1_dna_replication_significance",
+              "title": "Significance of DNA Replication"
+            },
+            {
+              "id": "g12_t1_protein_synthesis",
+              "title": "Protein Synthesis"
+            },
+            {
+              "id": "g12_t1_meiosis",
+              "title": "Meiosis"
+            }
+          ]
+        },
+        {
+          "topic": "Reproduction in Vertebrates",
+          "topicId": "reproduction_vertebrates",
+          "lessons": [
+            {
+              "id": "g12_t1_fertilization_types",
+              "title": "Types of Fertilization"
+            },
+            {
+              "id": "g12_t1_birth_types",
+              "title": "Birth Types (Vivipary, Ovipary, Ovovivipary)"
+            },
+            {
+              "id": "g12_t1_embryonic_development",
+              "title": "Embryonic Development"
+            },
+            {
+              "id": "g12_t1_human_sex_organs",
+              "title": "Human Sex Organs"
+            },
+            {
+              "id": "g12_t1_ovarian_cycle",
+              "title": "Ovarian Cycle"
+            },
+            {
+              "id": "g12_t1_menstrual_cycle",
+              "title": "Menstrual Cycle"
+            },
+            {
+              "id": "g12_t1_extraembryonic_membranes",
+              "title": "Extraembryonic Membranes"
+            },
+            {
+              "id": "g12_t1_implantation_placenta",
+              "title": "Implantation and Placenta"
+            },
+            {
+              "id": "g12_t1_embryo_development",
+              "title": "Development of the Embryo"
+            }
+          ]
+        }
+      ],
+      "term2": [],
+      "term3": [],
+      "term4": []
+    }
+  }
+}
