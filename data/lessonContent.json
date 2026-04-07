@@ -1,0 +1,57 @@
+{
+    "lessons": {
+        "g12_t1_dna_scientists": {
+            "title": "Scientists Behind DNA Discovery",
+            "content": [
+                {
+                    "type": "text",
+                    "value": "Scientists behind DNA structure discovery is Watson and Crick. Those who studied DNA via X-ray is Wilkins."
+                }
+            ]
+        },
+        "g12_t1_dna_structure": {
+            "title": "Structure of DNA",
+            "content": [
+                {
+                    "type": "text",
+                    "value": "DNA has a double helix structure made of nucleotides."
+                },
+                {
+                    "type": "image",
+                    "src": "images/dna-structure.png",
+                    "caption": "The double helix structure of DNA"
+                },
+                {
+                    "type": "text",
+                    "value": "Each nucleotide consists of a sugar, phosphate group, and nitrogen base."
+                }
+            ]
+        },
+        "g12_t1_dna_replication": {
+            "title": "DNA Replication",
+            "content": [
+                {
+                    "type": "text",
+                    "value": "DNA replication is the process by which DNA makes a copy of itself."
+                },
+                {
+                    "type": "image",
+                    "src": "images/dna-replication.png",
+                    "caption": "DNA replication fork"
+                }
+            ]
+        },
+        "g12_t1_dna_location": {
+            "title": "Where DNA is Found",
+            "content": [
+                {
+                    "type": "text",
+                    "value": "There are two types of nucleic acids: DNA and RNA."
+                },
+                {
+                    "type": "image"
+                }
+            ]
+        }
+    }
+}

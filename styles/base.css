@@ -30,6 +30,7 @@ header {
     gap: 2rem;
     justify-content: center;
     align-items: center;
+    font-family: var(--font-main-heading);
 }
 
 .logo img {
@@ -41,6 +42,23 @@ nav {
     gap: 1.5rem;
     justify-self: end;
     margin-right: 4rem;
+    /* color: ; */
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    background-color: var(--icon-fill);
+    width: 6rem;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid var(--icon-border);
+}
+
+nav a.active {
+    /* margin-bottom: 0.5rem; */
+    background-color: #A15AAF;
 }
 
 section,
@@ -56,29 +74,120 @@ section,
     align-items: center;
     /* overflow: hidden; */
     width: 100%;
-    height: 100%;
-    .icon-button {
-        background-color: var(--icon-fill);
-        /* padding: 5rem; */
-        font-family: var(--font-icons);
-        font-size: 1.5rem;
-        border: 15px solid var(--icon-border);
-        border-radius: 30px;
-        /* justify-items: center; */
-        padding: 5rem;
-        color: white;
-        /* box-shadow: inset 2px 4px 8px 5px #15203f; */
-
-    }
 }
 
 .icon-button {
+    background-color: var(--icon-fill);
+    /* padding: 5rem; */
+    font-family: var(--font-icons);
+    font-size: 1.5rem;
+    border: 15px solid var(--icon-border);
+    border-radius: 30px;
     cursor: pointer;
-    /* transition: 5ms ease-in-out; */
+    padding: 5rem;
+    color: white;
+    /* box-shadow: inset 2px 4px 8px 5px #15203f; */
+
 }
 
 .icon-button:hover {
     scale: 1.02;
 }
 
+#topicsContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
 
+    width: 65%;
+    /* height: 15px; */
+    margin: 0 auto;
+}
+
+div .icon-button {
+    width: 100%;
+
+}
+
+#termTitles {
+    font-family: var(--font-main-heading);
+}
+
+/* .lesson-container {
+   
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+} */
+
+#topicsContainer .icon-button {
+    width: 100%;
+    text-align: center;
+}
+
+.lesson-container h1 {
+    font-family: var(--font-main-heading);
+    text-align: center;
+}
+
+#backBtn {
+    margin-bottom: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 8px;
+    background-color: var(--primary-color);
+    color: white;
+    cursor: pointer;
+}
+
+/* WHITEBOARD */
+.whiteboard-container {
+    display: flex;
+    /* flex-direction: column; */
+    height: calc(100vh - 100px);
+}
+
+#whiteboard {
+    width: 80%;
+    height: 100%;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.tools {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    gap: 1rem;
+    padding: 1rem;
+
+    background: #1e293b;
+    border-bottom: 3px solid #334155;
+}
+
+.tools button {
+    background: #543355;
+    color: white;
+    border: none;
+    padding: 0.7rem 1.5rem;
+    border-radius: 10px 10px 0 0;
+    cursor: pointer;
+    font-family: var(--font-body);
+}
+
+.toolbar button:hover {
+    background: #476949;
+}
+
+#whiteboard {
+    width: 70%;
+    height: 100%;
+    background: white;
+}
+
+.side-panel {
+    width: 30%;
+    background: #0f172a;
+    padding: 1rem;
+}

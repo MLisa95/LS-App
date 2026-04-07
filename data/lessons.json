@@ -3,85 +3,85 @@
     "12": {
       "term1": [
         {
-          "topic": "DNA: Code of Life",
-          "topicId": "dna_code_of_life",
-          "lessons": [
-            {
-              "id": "g12_t1_dna_scientists",
-              "title": "Scientists Behind DNA Discovery"
-            },
-            {
-              "id": "g12_t1_dna_significance",
-              "title": "Significance of DNA"
-            },
-            {
-              "id": "g12_t1_dna_structure",
-              "title": "Structure of DNA"
-            },
-            {
-              "id": "g12_t1_dna_location",
-              "title": "Where DNA is Found"
-            },
-            {
-              "id": "g12_t1_dna_replication",
-              "title": "DNA Replication"
-            },
-            {
-              "id": "g12_t1_dna_replication_significance",
-              "title": "Significance of DNA Replication"
-            },
-            {
-              "id": "g12_t1_protein_synthesis",
-              "title": "Protein Synthesis"
-            },
-            {
-              "id": "g12_t1_meiosis",
-              "title": "Meiosis"
-            }
-          ]
+          "id": "g12_t1_dna_scientists",
+          "topic": "Scientists Behind DNA Discovery",
+          "category": "DNA: Code of Life"
         },
         {
-          "topic": "Reproduction in Vertebrates",
-          "topicId": "reproduction_vertebrates",
-          "lessons": [
+          "id": "g12_t1_dna_significance",
+          "topic": "Significance of DNA",
+          "category": "DNA: Code of Life"
+        },
+        {
+        "id": "g12_t1_dna_structure",
+        "topic": "Structure of DNA",
+        "category": "DNA: Code of Life"
+        },
+        {
+        "id": "g12_t1_dna_location",
+        "topic": "Where DNA is Found",
+        "category": "DNA: Code of Life"
+        },
+        {
+        "id": "g12_t1_dna_replication",
+        "topic": "DNA Replication",
+        "category": "DNA: Code of Life"
+        },
+        {
+          "id": "g12_t1_protein_synthesis",
+          "topic": "Protein Synthesis",
+          "category": "DNA: Code of Life"
+          },
+          {
+          "id": "g12_t1_meiosis",
+          "topic": "Meiosis",
+          "category": "DNA: Code of Life"
+          },
             {
               "id": "g12_t1_fertilization_types",
-              "title": "Types of Fertilization"
+              "topic": "Types of Fertilization",
+              "category": "Reproduction in Vertebrates"
             },
             {
               "id": "g12_t1_birth_types",
-              "title": "Birth Types (Vivipary, Ovipary, Ovovivipary)"
+              "topic": "Birth Types (Vivipary, Ovipary, Ovovivipary)",
+              "category": "Reproduction in Vertebrates"
             },
             {
               "id": "g12_t1_embryonic_development",
-              "title": "Embryonic Development"
+              "topic": "Embryonic Development",
+              "category": "Reproduction in Vertebrates"
             },
             {
               "id": "g12_t1_human_sex_organs",
-              "title": "Human Sex Organs"
+              "topic": "Human Sex Organs",
+              "category": "Reproduction in Vertebrates"
             },
             {
               "id": "g12_t1_ovarian_cycle",
-              "title": "Ovarian Cycle"
+              "topic": "Ovarian Cycle",
+              "category": "Reproduction in Vertebrates"
             },
             {
               "id": "g12_t1_menstrual_cycle",
-              "title": "Menstrual Cycle"
+              "topic": "Menstrual Cycle",
+              "category": "Reproduction in Vertebrates"
             },
             {
               "id": "g12_t1_extraembryonic_membranes",
-              "title": "Extraembryonic Membranes"
+              "topic": "Extraembryonic Membranes",
+              "category": "Reproduction in Vertebrates"
             },
             {
               "id": "g12_t1_implantation_placenta",
-              "title": "Implantation and Placenta"
+              "topic": "Implantation and Placenta",
+              "category": "Reproduction in Vertebrates"
             },
             {
               "id": "g12_t1_embryo_development",
-              "title": "Development of the Embryo"
+              "topic": "Development of the Embryo",
+              "category": "Reproduction in Vertebrates"
             }
-          ]
-        }
       ],
       "term2": [],
       "term3": [],
